@@ -1,5 +1,5 @@
 @media (max-width: 600px) {
-  section > .container {
+  div > .container {
     width: auto;
   }
 }
