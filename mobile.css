@@ -1,5 +1,7 @@
 @media (max-width: 600px) {
-  div > .container {
+  div > .container,
+  body,
+  html {
     width: auto;
   }
 }
