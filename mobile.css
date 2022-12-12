@@ -2,6 +2,6 @@
   div > .container,
   body,
   html {
-    width: auto;
+    width: 100vw;
   }
 }
