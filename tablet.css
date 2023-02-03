@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+  div > .container,
+  body,
+  html {
+    width: 100vw;
+  }
+}
